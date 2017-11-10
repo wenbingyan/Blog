@@ -11,6 +11,8 @@
 
 5. [GreenSock (TweenMax)](https://github.com/wenbingyan/Blog/issues/5)
 
-5. [SVG学习](https://github.com/wenbingyan/Blog/issues/6)
+6. [SVG学习](https://github.com/wenbingyan/Blog/issues/6)
 
-6. [vim命令](https://github.com/wenbingyan/Blog/issues/7)
+7. [vim命令](https://github.com/wenbingyan/Blog/issues/7)
+
+8. [CoderByte攻城狮](https://github.com/wenbingyan/Blog/issues/8)
