@@ -15,6 +15,7 @@
 
 7. [vim命令](https://github.com/wenbingyan/Blog/issues/7)
 
+8. [function两种写法的区别](https://github.com/wenbingyan/Blog/issues/10)
 
 攻城狮
 
