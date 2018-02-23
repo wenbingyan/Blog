@@ -17,6 +17,8 @@
 
 8. [function两种写法的区别](https://github.com/wenbingyan/Blog/issues/20)
 
+9. [call()和apply()](https://github.com/wenbingyan/Blog/issues/22)
+
 攻城狮
 
   [CoderByte攻城之路](https://github.com/wenbingyan/Blog/issues/8)
