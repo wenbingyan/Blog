@@ -20,6 +20,10 @@
 攻城狮
 
   [CoderByte攻城之路](https://github.com/wenbingyan/Blog/issues/8)
+
+ES6
+
+1. [Object.defineProperty()](https://github.com/wenbingyan/Blog/issues/25)
   
 VUE 系列文章
 
