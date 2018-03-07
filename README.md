@@ -17,6 +17,8 @@
 
 8. [call()和apply()](https://github.com/wenbingyan/Blog/issues/22)
 
+8. [cookie与localstorage](https://github.com/wenbingyan/Blog/issues/27)
+
 攻城狮
 
   [CoderByte攻城之路](https://github.com/wenbingyan/Blog/issues/8)
