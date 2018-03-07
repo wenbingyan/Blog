@@ -17,7 +17,9 @@
 
 8. [call()和apply()](https://github.com/wenbingyan/Blog/issues/22)
 
-8. [cookie与localstorage](https://github.com/wenbingyan/Blog/issues/27)
+9. [cookie与localstorage](https://github.com/wenbingyan/Blog/issues/27)
+
+10. [关于DOM的一些错误理解](https://github.com/wenbingyan/Blog/issues/28)
 
 攻城狮
 
