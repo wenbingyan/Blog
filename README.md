@@ -21,6 +21,8 @@
 
 10. [关于DOM的一些错误理解](https://github.com/wenbingyan/Blog/issues/28)
 
+11. [浏览器渲染过程](https://github.com/wenbingyan/Blog/issues/29)
+
 攻城狮
 
   [CoderByte攻城之路](https://github.com/wenbingyan/Blog/issues/8)
