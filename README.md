@@ -23,6 +23,8 @@
 
 11. [浏览器渲染过程](https://github.com/wenbingyan/Blog/issues/29)
 
+12. [Yahoo前端优化35条军规](https://github.com/wenbingyan/Blog/issues/30)
+
 攻城狮
 
   [CoderByte攻城之路](https://github.com/wenbingyan/Blog/issues/8)
