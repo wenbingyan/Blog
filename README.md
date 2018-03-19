@@ -27,6 +27,8 @@
 
 13. [for in 和 for of 区别](https://github.com/wenbingyan/Blog/issues/31)
 
+14. [优雅降级和渐进增强](https://github.com/wenbingyan/Blog/issues/32)
+
 攻城狮
 
   [CoderByte攻城之路](https://github.com/wenbingyan/Blog/issues/8)
