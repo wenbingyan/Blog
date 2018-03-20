@@ -51,7 +51,5 @@ VUE 系列文章
 
 4. [DDOS](https://github.com/wenbingyan/Blog/issues/26)
 
-JS常用方法
-
- [JS常用方法](https://github.com/wenbingyan/Blog/issues/33)
+[JS常用方法](https://github.com/wenbingyan/Blog/issues/33)
 
