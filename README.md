@@ -32,6 +32,8 @@
 攻城狮
 
   [CoderByte攻城之路](https://github.com/wenbingyan/Blog/issues/8)
+  
+  [JS常用方法](https://github.com/wenbingyan/Blog/issues/33)
 
 ES6
 
@@ -51,5 +53,4 @@ VUE 系列文章
 
 4. [DDOS](https://github.com/wenbingyan/Blog/issues/26)
 
-[JS常用方法](https://github.com/wenbingyan/Blog/issues/33)
 
