@@ -33,7 +33,7 @@
 
   [CoderByte攻城之路](https://github.com/wenbingyan/Blog/issues/8)
   
-  [JS常用方法](https://github.com/wenbingyan/Blog/issues/33)
+  [JS常用方法](https://github.com/wenbingyan/Blog/issues/33)
 
 ES6
 
