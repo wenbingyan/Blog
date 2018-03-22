@@ -29,6 +29,8 @@
 
 14. [优雅降级和渐进增强](https://github.com/wenbingyan/Blog/issues/32)
 
+15. [Ajax](https://github.com/wenbingyan/Blog/issues/36)
+
 攻城狮
 
   [CoderByte攻城之路](https://github.com/wenbingyan/Blog/issues/8)
