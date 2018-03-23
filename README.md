@@ -31,6 +31,8 @@
 
 15. [Ajax](https://github.com/wenbingyan/Blog/issues/36)
 
+15. [IIFE](https://github.com/wenbingyan/Blog/issues/37)
+
 攻城狮
 
   [CoderByte攻城之路](https://github.com/wenbingyan/Blog/issues/8)
