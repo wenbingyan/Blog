@@ -31,7 +31,9 @@
 
 15. [Ajax](https://github.com/wenbingyan/Blog/issues/36)
 
-15. [IIFE](https://github.com/wenbingyan/Blog/issues/37)
+16. [IIFE](https://github.com/wenbingyan/Blog/issues/37)
+
+17. [jquery中$(document).ready()与window.onload的区别](https://github.com/wenbingyan/Blog/issues/39)
 
 攻城狮
 
