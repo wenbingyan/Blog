@@ -35,6 +35,8 @@
 
 17. [jquery中$(document).ready()与window.onload的区别](https://github.com/wenbingyan/Blog/issues/39)
 
+18. [事件流](https://github.com/wenbingyan/Blog/issues/40)
+
 攻城狮
 
   [CoderByte攻城之路](https://github.com/wenbingyan/Blog/issues/8)
