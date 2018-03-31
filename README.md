@@ -48,6 +48,8 @@
 ES6
 
 1. [Object.defineProperty()](https://github.com/wenbingyan/Blog/issues/25)
+
+2. [import 和 export](https://github.com/wenbingyan/Blog/issues/42)
   
 VUE 系列文章
 
