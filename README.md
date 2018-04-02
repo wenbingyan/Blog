@@ -39,6 +39,8 @@
 
 19. [观察者模式（订阅-发布者模式）](https://github.com/wenbingyan/Blog/issues/41)
 
+20. [JS数据类型](https://github.com/wenbingyan/Blog/issues/43)
+
 攻城狮
 
   [CoderByte攻城之路](https://github.com/wenbingyan/Blog/issues/8)
