@@ -59,6 +59,8 @@ VUE 系列文章
 
 1. [ref官方简介](https://github.com/wenbingyan/Blog/issues/21)
 
+2. [为什么要用vuex](https://github.com/wenbingyan/Blog/issues/45)
+
 网络安全
 
 1. [边界防护](https://github.com/wenbingyan/Blog/issues/23)
