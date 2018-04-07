@@ -58,6 +58,8 @@ ES6
 2. [import 和 export](https://github.com/wenbingyan/Blog/issues/42)
 
 3. [组件之间的数据传递](https://github.com/wenbingyan/Blog/issues/44)
+
+3. [组件data为什么是函数](https://github.com/wenbingyan/Blog/issues/46)
   
 VUE 系列文章
 
