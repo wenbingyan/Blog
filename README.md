@@ -15,31 +15,35 @@
 
 7. [function两种写法的区别](https://github.com/wenbingyan/Blog/issues/20)
 
-8. [call()和apply()](https://github.com/wenbingyan/Blog/issues/22)
+8. [cookie与localstorage](https://github.com/wenbingyan/Blog/issues/27)
 
-9. [cookie与localstorage](https://github.com/wenbingyan/Blog/issues/27)
+9. [浏览器渲染过程](https://github.com/wenbingyan/Blog/issues/29)
 
-10. [关于DOM的一些错误理解](https://github.com/wenbingyan/Blog/issues/28)
+10. [Yahoo前端优化35条军规](https://github.com/wenbingyan/Blog/issues/30)
 
-11. [浏览器渲染过程](https://github.com/wenbingyan/Blog/issues/29)
+11. [优雅降级和渐进增强](https://github.com/wenbingyan/Blog/issues/32)
 
-12. [Yahoo前端优化35条军规](https://github.com/wenbingyan/Blog/issues/30)
+JS相关知识
 
-13. [for in 和 for of 区别](https://github.com/wenbingyan/Blog/issues/31)
+1. [function两种写法的区别](https://github.com/wenbingyan/Blog/issues/20)
 
-14. [优雅降级和渐进增强](https://github.com/wenbingyan/Blog/issues/32)
+2. [call()和apply()](https://github.com/wenbingyan/Blog/issues/22)
 
-15. [Ajax](https://github.com/wenbingyan/Blog/issues/36)
+3. [关于DOM的一些错误理解](https://github.com/wenbingyan/Blog/issues/28)
 
-16. [IIFE](https://github.com/wenbingyan/Blog/issues/37)
+4. [for in 和 for of 区别](https://github.com/wenbingyan/Blog/issues/31)
 
-17. [jquery中$(document).ready()与window.onload的区别](https://github.com/wenbingyan/Blog/issues/39)
+5. [Ajax](https://github.com/wenbingyan/Blog/issues/36)
 
-18. [事件流](https://github.com/wenbingyan/Blog/issues/40)
+6. [IIFE](https://github.com/wenbingyan/Blog/issues/37)
 
-19. [观察者模式（订阅-发布者模式）](https://github.com/wenbingyan/Blog/issues/41)
+7. [jquery中$(document).ready()与window.onload的区别](https://github.com/wenbingyan/Blog/issues/39)
 
-20. [JS数据类型](https://github.com/wenbingyan/Blog/issues/43)
+8. [事件流](https://github.com/wenbingyan/Blog/issues/40)
+
+9. [观察者模式（订阅-发布者模式）](https://github.com/wenbingyan/Blog/issues/41)
+
+10. [JS数据类型](https://github.com/wenbingyan/Blog/issues/43)
 
 攻城狮
 
