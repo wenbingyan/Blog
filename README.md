@@ -69,6 +69,8 @@ VUE 系列文章
 
 React 系列文章
 
+1. [React创建组件的三种方式](https://github.com/wenbingyan/Blog/issues/47)
+
 网络安全
 
 1. [边界防护](https://github.com/wenbingyan/Blog/issues/23)
