@@ -73,6 +73,8 @@ React 系列文章
 
 2. [React组件生命周期](https://github.com/wenbingyan/Blog/issues/48)
 
+3. [深入了解 React中的createElement+render](https://github.com/wenbingyan/Blog/issues/49)
+
 网络安全
 
 1. [边界防护](https://github.com/wenbingyan/Blog/issues/23)
