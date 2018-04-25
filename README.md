@@ -23,6 +23,8 @@
 
 11. [优雅降级和渐进增强](https://github.com/wenbingyan/Blog/issues/32)
 
+15. [伪元素::before和::after](https://github.com/wenbingyan/Blog/issues/50)
+
 JS相关知识
 
 1. [function两种写法的区别](https://github.com/wenbingyan/Blog/issues/20)
