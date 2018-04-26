@@ -77,6 +77,8 @@ React 系列文章
 
 3. [深入了解 React中的createElement+render](https://github.com/wenbingyan/Blog/issues/49)
 
+4. [React中三种绑定this的方法](https://github.com/wenbingyan/Blog/issues/51)
+
 网络安全
 
 1. [边界防护](https://github.com/wenbingyan/Blog/issues/23)
