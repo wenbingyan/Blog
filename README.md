@@ -75,13 +75,11 @@ React 系列文章
 
 1. [React创建组件的三种方式](https://github.com/wenbingyan/Blog/issues/47)
 
-2. [React组件生命周期](https://github.com/wenbingyan/Blog/issues/48)
+2. [深入了解 React中的createElement+render](https://github.com/wenbingyan/Blog/issues/49)
 
-3. [深入了解 React中的createElement+render](https://github.com/wenbingyan/Blog/issues/49)
+3. [React中三种绑定this的方法](https://github.com/wenbingyan/Blog/issues/51)
 
-4. [React中三种绑定this的方法](https://github.com/wenbingyan/Blog/issues/51)
-
-5. [React组件生命周期流程图](https://github.com/wenbingyan/Blog/issues/52)
+4. [React组件生命周期流程图](https://github.com/wenbingyan/Blog/issues/52)
 
 网络安全
 
