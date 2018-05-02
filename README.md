@@ -62,6 +62,8 @@ ES6
 3. [组件之间的数据传递](https://github.com/wenbingyan/Blog/issues/44)
 
 4. [组件data为什么是函数](https://github.com/wenbingyan/Blog/issues/46)
+
+4. [Object.assign()](https://github.com/wenbingyan/Blog/issues/53)
   
 VUE 系列文章
 
