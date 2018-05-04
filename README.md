@@ -59,17 +59,17 @@ ES6
 
 2. [import 和 export](https://github.com/wenbingyan/Blog/issues/42)
 
-3. [组件之间的数据传递](https://github.com/wenbingyan/Blog/issues/44)
-
-4. [组件data为什么是函数](https://github.com/wenbingyan/Blog/issues/46)
-
-4. [Object.assign()](https://github.com/wenbingyan/Blog/issues/53)
+3. [Object.assign()](https://github.com/wenbingyan/Blog/issues/53)
   
 VUE 系列文章
 
 1. [ref官方简介](https://github.com/wenbingyan/Blog/issues/21)
 
 2. [为什么要用vuex](https://github.com/wenbingyan/Blog/issues/45)
+
+3. [组件之间的数据传递](https://github.com/wenbingyan/Blog/issues/44)
+
+4. [组件data为什么是函数](https://github.com/wenbingyan/Blog/issues/46)
 
 React 系列文章
 
