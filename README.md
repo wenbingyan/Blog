@@ -60,6 +60,8 @@ ES6
 2. [import 和 export](https://github.com/wenbingyan/Blog/issues/42)
 
 3. [Object.assign()](https://github.com/wenbingyan/Blog/issues/53)
+
+4. [Promise()](https://github.com/wenbingyan/Blog/issues/55)
   
 VUE 系列文章
 
