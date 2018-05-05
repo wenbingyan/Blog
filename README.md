@@ -47,6 +47,8 @@ JS相关知识
 
 10. [JS数据类型](https://github.com/wenbingyan/Blog/issues/43)
 
+11. [深,浅拷贝](https://github.com/wenbingyan/Blog/issues/56)
+
 攻城狮
 
   [CoderByte攻城之路](https://github.com/wenbingyan/Blog/issues/8)
