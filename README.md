@@ -51,6 +51,8 @@ JS相关知识
 
 11. [深,浅拷贝](https://github.com/wenbingyan/Blog/issues/56)
 
+12. [单线程和异步队列](https://github.com/wenbingyan/Blog/issues/59)
+
 攻城狮
 
   [CoderByte攻城之路](https://github.com/wenbingyan/Blog/issues/8)
