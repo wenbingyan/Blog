@@ -23,9 +23,11 @@
 
 11. [优雅降级和渐进增强](https://github.com/wenbingyan/Blog/issues/32)
 
-15. [伪元素::before和::after](https://github.com/wenbingyan/Blog/issues/50)
+12. [伪元素::before和::after](https://github.com/wenbingyan/Blog/issues/50)
 
-15. [如何并列返回ajax请求结果](https://github.com/wenbingyan/Blog/issues/57)
+13. [如何并列返回ajax请求结果](https://github.com/wenbingyan/Blog/issues/57)
+
+14. [算法复杂度](https://github.com/wenbingyan/Blog/issues/60)
 
 JS相关知识
 
