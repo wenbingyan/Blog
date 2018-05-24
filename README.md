@@ -7,6 +7,8 @@
 
 3. [Mac终端命令大全](https://github.com/wenbingyan/Blog/issues/4)
 
+3. [Mac切换root用户](https://github.com/wenbingyan/Blog/issues/64)
+
 4. [GreenSock (TweenMax)](https://github.com/wenbingyan/Blog/issues/5)
 
 5. [SVG学习](https://github.com/wenbingyan/Blog/issues/6)
