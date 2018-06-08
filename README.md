@@ -13,6 +13,8 @@
 
 5. [SVG学习](https://github.com/wenbingyan/Blog/issues/6)
 
+6. [git](https://github.com/wenbingyan/git)
+
 6. [vim命令](https://github.com/wenbingyan/Blog/issues/7)
 
 7. [function两种写法的区别](https://github.com/wenbingyan/Blog/issues/20)
