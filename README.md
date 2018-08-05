@@ -97,7 +97,7 @@ VUE 系列文章
 
 4. [组件data为什么是函数](https://github.com/wenbingyan/Blog/issues/46)
 
-4. [父子组件怎么传递异步数据](https://github.com/wenbingyan/Blog/issues/70)
+4. [父子组件怎么传递异步数据](https://github.com/wenbingyan/Blog/issues/71)
 
 React 系列文章
 
