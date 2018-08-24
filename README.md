@@ -45,7 +45,7 @@
 
 18. [Web works](https://github.com/wenbingyan/Blog/issues/66)
 
-18. [CSS垂直居中](https://github.com/wenbingyan/Blog/issues/71)
+18. [CSS垂直居中](https://github.com/wenbingyan/Blog/issues/72)
 
 JS相关知识
 
