@@ -49,6 +49,8 @@
 
 18. [函数柯里化](https://github.com/wenbingyan/Blog/issues/73)
 
+18. [eventLoop](https://github.com/wenbingyan/Blog/issues/74)
+
 JS相关知识
 
 1. [function两种写法的区别](https://github.com/wenbingyan/Blog/issues/20)
