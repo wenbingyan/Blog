@@ -81,6 +81,8 @@ JS相关知识
 
 14. [节流与防抖](https://github.com/wenbingyan/Blog/issues/76)
 
+14. [数组](https://github.com/wenbingyan/Blog/issues/77)
+
 攻城狮
 
   [CoderByte攻城之路](https://github.com/wenbingyan/Blog/issues/8)
