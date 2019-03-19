@@ -79,6 +79,8 @@ JS相关知识
 
 13. [JavaScript 中的 arguments 对象](https://github.com/wenbingyan/Blog/issues/75)
 
+14. [节流与防抖](https://github.com/wenbingyan/Blog/issues/76)
+
 攻城狮
 
   [CoderByte攻城之路](https://github.com/wenbingyan/Blog/issues/8)
