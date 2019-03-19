@@ -77,6 +77,8 @@ JS相关知识
 
 12. [单线程和异步队列](https://github.com/wenbingyan/Blog/issues/59)
 
+13. [JavaScript 中的 arguments 对象](https://github.com/wenbingyan/Blog/issues/75)
+
 攻城狮
 
   [CoderByte攻城之路](https://github.com/wenbingyan/Blog/issues/8)
