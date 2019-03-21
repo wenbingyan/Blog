@@ -43,9 +43,9 @@
 
 18. [（ 位 ）运算符](https://github.com/wenbingyan/Blog/issues/65)
 
-18. [Web works](https://github.com/wenbingyan/Blog/issues/66)
+19. [Web works](https://github.com/wenbingyan/Blog/issues/66)
 
-18. [CSS垂直居中](https://github.com/wenbingyan/Blog/issues/72)
+20. [CSS垂直居中](https://github.com/wenbingyan/Blog/issues/72)
 
 18. [函数柯里化](https://github.com/wenbingyan/Blog/issues/73)
 
