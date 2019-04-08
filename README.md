@@ -85,6 +85,8 @@ JS相关知识
 
 14. [数组](https://github.com/wenbingyan/Blog/issues/77)
 
+14. [JavaScript代码简介之道](https://github.com/wenbingyan/Blog/issues/79)
+
 攻城狮
 
   [CoderByte攻城之路](https://github.com/wenbingyan/Blog/issues/8)
