@@ -57,7 +57,7 @@ JS相关知识
 
 1. [function两种写法的区别](https://github.com/wenbingyan/Blog/issues/20)
 
-2. [call()和apply(),bind()区别](https://github.com/wenbingyan/Blog/issues/22)
+2. [call和apply,bind区别](https://github.com/wenbingyan/Blog/issues/22)
 
 3. [关于DOM的一些错误理解](https://github.com/wenbingyan/Blog/issues/28)
 
